@@ -1,11 +1,24 @@
-### Hi there, I'm Igor Santos
+### Hey Welcome, I'm Igor Santos
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantos17&layout=compact&theme=nord)](https://github.com/IgorSantos17)
-[![Igor Santos GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorSantos17&hide=contribs&line_height=24&custom_title=Igor%20Santos's%20GitHub%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/IgorSantos17)
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantos17&hide=html&layout=compact&theme=gruvbox" /></td>
+            <td>
+                <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=IgorSantos17&theme=gruvbox&show_icons=true" />
+            </td>
+        </tr>  
+    </table>
+</center>
+
+<a href="https://github.com/IgorSantos17/Resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorSantos17&repo=Resume&theme=gruvbox" />
+</a>
 
 <hr>
 
-## Social Networks
+## **Social Networks**
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/IgorSantos17)](https://github.com/IgorSantos17/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@IgorSantos17)](https://medium.com/@IgorSantos17)
